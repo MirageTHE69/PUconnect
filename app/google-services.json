@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753325059231",
+    "project_id": "puconnect-fc30e",
+    "storage_bucket": "puconnect-fc30e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753325059231:android:c0ad2d3bf2a9fee08bc6aa",
+        "android_client_info": {
+          "package_name": "com.example.puconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753325059231-s5vd32d05brf8v5ctbkf9ioufharatup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_IlWRfnJhwSrhgsrCttanydNvAjWdC-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753325059231-s5vd32d05brf8v5ctbkf9ioufharatup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
